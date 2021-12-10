@@ -6,6 +6,6 @@ Ejercicios de programación
 
 ## PruebaA2.js
 
-## PruebaB2.js
+## PruebaB.js
 
 ## PruebaC.js
