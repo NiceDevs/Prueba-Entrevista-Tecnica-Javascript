@@ -25,6 +25,8 @@ Restricciones:
 
 La longitud de String sera mayo a 0, y consta de letras, dígitos, símbolos y espacios en inglés.
 
+[Solucion](https://github.com/NiceDevs/Prueba-Entrevista-Tecnica-Javascript/blob/main/pruebas/01-prueba-A1.js)
+
 ## PruebaA2.js
 
 ## PruebaB.js
