@@ -2,6 +2,12 @@
 
 Ejercicios de programación 
 
+## Prueba de pensamiento Logico
+
+Ana, Beatriz y Carmen. Una es tenista, otra gimnasta y otra nadadora. La gimnasta, la más baja de las tres, es soltera. Ana, que es suegra de Beatriz, es más alta que la tenista. ¿Qué deporte practica cada una? . Desarrolla tu respuesta.
+
+
+
 ## PruebaA1.js
 
 Dada una cadena llamada String , encuentra la longitud de la subcadena más larga sin caracteres repetidos.
